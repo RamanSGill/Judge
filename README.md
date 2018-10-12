@@ -25,7 +25,6 @@
 #Technology to be used -
 
    1.Geolocation API
-   
    2.Twilio
    
    3.Django backend
