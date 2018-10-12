@@ -14,7 +14,7 @@
    
    4. Database will be made regarding the missing people and this Database will be used to compare the photos of people who are found by rescue Teams or in relief camps
      
-   5.The information about the found is sent to their loved ones in the form of email or message. Same will be done to the relief   ops/NGOs whoerver uploaded the photo of the found
+   5. The information about the found is sent to their loved ones in the form of email or message. Same will be done to the relief ops/NGOs whoerver uploaded the photo of the found
    
    6. Analysis of Twitter stream to gain analytics on the situation.
 
