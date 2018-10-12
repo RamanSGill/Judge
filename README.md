@@ -34,5 +34,7 @@
    8. Twitter API
    
 # Team Members
- +[Ramanpreet Singh](https://github.com/RamanSGill)
+ [Ramanpreet Singh](https://github.com/RamanSGill)
+ [Nishant Kumar](https://github.com/nishant3657)
+ Pranshu Prakash Vaish
  
