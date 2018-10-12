@@ -24,12 +24,10 @@
 
 #Technology to be used -
 
-   1.Geolocation API
-   2.Twilio
-   
-   3.Django backend
-   
-   4.Tensorflow
+   1. Geolocation API.
+   2. Twilio.
+   3. Django backend.
+   4.Tensorflow.
    
    5.Keras
    
