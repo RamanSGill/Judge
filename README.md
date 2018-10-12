@@ -27,14 +27,10 @@
    1. Geolocation API.
    2. Twilio.
    3. Django backend.
-   4.Tensorflow.
-   
-   5.Keras
-   
-   6.BNP Paribas OBP API
-   
-   7.Azure services
-   
-   8.Twitter API
+   4. Tensorflow.
+   5. Keras
+   6. BNP Paribas OBP API
+   7. Azure services
+   8. Twitter API
    
 # Team Members
