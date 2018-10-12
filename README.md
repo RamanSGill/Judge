@@ -16,6 +16,6 @@ This app aims to help people both before and after natural disasters.
 
     6. Relatives and friends can request to ring the phone of a missing kin thorough the app to find his whereabouts.
 
-    7. Along with the notifications mentioned in (1), the app aims to give investment tips relevant to the industries affected by          the disaster.
+    7. Along with the notifications mentioned in (1), the app aims to give investment tips relevant to the industries affected by the disaster.
 
 
