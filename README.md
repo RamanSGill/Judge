@@ -22,7 +22,7 @@
 
    8. Along with the notifications mentioned in (1), the app aims to give investment tips relevant to the industries affected by the disaster.
 
-#Technology to be used -
+# Technology to be used -
 
    1. Geolocation API.
    2. Twilio.
